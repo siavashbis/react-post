@@ -2,7 +2,7 @@
   "name": "first-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://siavashbis.github.io/react-posts",
+  "homepage": "https://siavashbis.github.io/react-post",
   "type": "module",
   "scripts": {
     "dev": "vite",
